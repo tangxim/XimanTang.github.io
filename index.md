@@ -1,5 +1,5 @@
 # 作品汇总
-你好，这里汇总了我的作品，包括`游戏设计`和`游戏作品`两方面内容。
+这里汇总了我的作品，包括`游戏设计`和`游戏作品`两方面内容。
 * [我的TAPTAP开发者主页](https://www.taptap.com/developer/91292)
 ## 游戏设计
 * [游戏《二十四节气大作战》部分策划文档](https://pan.baidu.com/s/1Nss5IOyFOFo2NTVReblgNA)      提取码：CatS
